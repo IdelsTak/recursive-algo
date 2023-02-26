@@ -1,4 +1,4 @@
-# Recursive-algorithms
+# Recursive Algorithms
 
 One should consider recursive routines when using iteration instead would make the source code inelegant or hard to read. The approach is also advantageous in cases where the use of iteration would make an algorithm unnecessarily complex to implement  (Dale & Weems, 2008). Also when an algorithm guarantees that a recursion would end at some point, it makes sense to use it because you are confident that the code would not lead to a `StackOverflowError`.
 
